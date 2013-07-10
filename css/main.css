@@ -1,0 +1,71 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.navbar-inverse .brand {
+color: #99c64e;
+font-size: 250%;
+}
+
+.navbar-inverse .nav>li>a {
+	font-size: 1.4em;
+}
+
+#characters {
+	margin: 50px 0 50px 0; 
+	width: auto;
+	height: auto;
+	background-color: #eeeeee;
+}
+
+#characters .char {
+	max-width: 100%;
+	margin-left: 0px;
+	/*margin-left: 10px;*/
+	height: 180px;
+}
+
+.charRow {
+	margin: 2%;
+}
+
+#middleChar {
+	height: 120px;
+	padding: 1%;
+}
+
+#midText{
+	font-size: 2em;
+}
+
+#akhil {
+	background-color: red;
+}
+
+#shanay {
+	background-color: green;
+}
+
+#devank {
+	background-color: blue;
+}
+
+#cecily {
+	background-color: pink;
+}
+
+#mike {
+	background-color: yellow;
+}
+
+#tracy {
+	background-color: purple;
+}
+
+
+
+
+
+
